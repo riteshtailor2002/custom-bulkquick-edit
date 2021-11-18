@@ -3,7 +3,7 @@
  * Plugin Name: Custom Bulk/Quick Edit
  * Plugin URI: http://wordpress.org/plugins/custom-bulkquick-edit/
  * Description: Custom Bulk/Quick Edit allows you to easily add custom fields to the edit screen bulk and quick edit panels.
- * Version: 1.6.9
+ * Version: 1.7.0
  * Author: Axelerant
  * Author URI: https://www.axelerant.com/
  * License: GPLv2 or later
